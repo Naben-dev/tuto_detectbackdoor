@@ -8,7 +8,7 @@ https://cdn.discordapp.com/attachments/713154244839997440/996458079673663618/Cap
 
 ---------------
 
-**Première étape : Cibler la proie**
+__**Première étape : Cibler la proie**__
 Tout simplement si vous voyez une personne qui commence à forcer pour partager son script genre une personne qui envoi un "debug d'un script" gratuitement dans un salon sans que personne ne lui ai rien demandé, ou bien une personne qui force pour partager son script dans avec tout le monde.
 
 **Deuxième étape : Analyser le script**
