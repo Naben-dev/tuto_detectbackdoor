@@ -8,13 +8,16 @@ https://cdn.discordapp.com/attachments/713154244839997440/996458079673663618/Cap
 
 ---------------
 
-__**Première étape : Cibler la proie**__
+**Première étape : Cibler la proie**
+
 Tout simplement si vous voyez une personne qui commence à forcer pour partager son script genre une personne qui envoi un "debug d'un script" gratuitement dans un salon sans que personne ne lui ai rien demandé, ou bien une personne qui force pour partager son script dans avec tout le monde.
 
 **Deuxième étape : Analyser le script**
+
 Maintenant que vous avez repéré le script qui pose problème téléchargez le sur votre pc et allez analyser les fichiers serveur du script (les backdoors sont preque tout le temps dans les fichiers serveurs car elles ne peuvent presque rien faire côté client), n'oubliez pas d'aller vérifier dans le fxmanifest qu'il n'est pas fait un fichier serveur qu'il a fait passer pour un fichier client.+
 
 **Troisième étape : Analyser le côté serveur**
+
 Maintenant que vous avez trouvé les fichiers serveurs c'est parti pour vérifier si ils contiennent une backdoor.
 Tout simplement analysez la totalité du code en essayant de comprendre à quoi il sert, une backdoor peut se retrouver par une partie du code qui est crypté (voir exemple de code crypté en photo ci-joint) et une backdoor contient souvent un "PerformHttpRequest" ou bien un "load" si vous voyez cela dans un script il est évident ou presque que c'est une backdoor.
 (sans comptez les gens ou il y a ouvertement écrit cipher ou je ne sais quoi dans leur code).
