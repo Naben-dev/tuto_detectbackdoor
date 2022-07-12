@@ -1,6 +1,6 @@
 # tuto_detectbackdoor
 
-Ce script est un tutoriel pour les débutants pouvoir détecter les scripts infectés d'une backdoor.
+Ce script est un tutoriel pour les débutants pour pouvoir détecter les scripts infectés d'une backdoor.
 Il a été entièrement fait par moi le 18/04 et je le poste ici car certains serveurs me l'ont volés :
 https://cdn.discordapp.com/attachments/713154244839997440/996458079673663618/Capture_decran_2022-07-12_184814.jpg
 
